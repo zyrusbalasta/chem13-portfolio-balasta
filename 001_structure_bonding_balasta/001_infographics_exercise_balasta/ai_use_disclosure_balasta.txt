@@ -1,0 +1,19 @@
+AI USE DISCLOSURE
+CHEM 13 | Asynchronous Activity No. 1: Three Organic Compound Infographics
+
+Name: Zyrus Balasta
+Date(s) of AI use: 11 September 2026
+
+AI TOOL USED
+Claude (Anthropic), model Claude Sonnet 5.5, used through claude.ai.
+
+What I did myself: I chose the three compounds (LSD, methamphetamine, ibuprofen), specified the 9:16 format and the panel layout, and instructed Claude to keep the LSD and methamphetamine content educational and to leave out any synthesis or production information.
+
+What Claude did:
+1. Searched the web and retrieved sources to check each compound's identity (names, formula, molar mass), properties, pharmacology, safety and regulatory statements, and proposed the references used in the footers.
+2. Drafted the text of all three infographics: taglines, property and risk bullets, the "what makes it remarkable" explanation, uses, and chemical engineering connections.
+3. Formatted the complete APA references in references_lastname.md.
+
+My verification: I checked each structure, name, number and reference against the cited sources.
+
+I am responsible for the accuracy of everything I submitted.
