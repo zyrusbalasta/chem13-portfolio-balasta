@@ -13,7 +13,7 @@ WHAT CLAUDE WAS USED FOR
 3. Drafting this disclosure statement.
 
 WHAT CLAUDE WAS NOT USED FOR
-- Drafting the Lewis structures (atoms, bonds, bond orders, lone pairs, formal charges) and the condensed structural formulas for the ten assigned compounds. The ten bond-line structures. I drew each one myself in Ketcher, following the drawing guide, and exported it as a PNG. I did not paste browser screenshots or structures copied from websites.
+- Drafting the Lewis structures and the condensed structural formulas for the ten assigned compounds. The ten bond-line structures. I drew each one myself in Ketcher, following the drawing guide, and exported it as a PNG. I did not paste browser screenshots or structures copied from websites.
 
 HOW I VERIFIED THE AI-ASSISTED WORK
 - I counted the atoms in every Lewis structure and condensed formula and compared them with the molecular formula given in the activity.
