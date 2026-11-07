@@ -1,0 +1,34 @@
+AI AND TOOL USE DISCLOSURE
+CHEM 13 - Asynchronous Activity No. 3: Name It, Draw It
+Student: Balasta, Zyrus
+Date:    November 7, 2026
+
+------------------------------------------------------------
+1. THE ALKANE - IUPAC name generator (required checking tool)
+------------------------------------------------------------
+Citation:
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 7, 2026, from https://thealkane.com/
+
+Used for:
+- Part A (A01-A10): rebuilding each given structure and reading the returned name AFTER I had typed my own name.
+- Part B (B01-B10): building every structure from the given name, and reading the returned name for the back-check.
+- Capturing the 20 cropped screenshots saved in thealkane_checks/ (a01_lastname.png ... b10_lastname.png).
+
+Not used: ChemDraw, ChemSketch, MarvinSketch, PubChem or any other naming/drawing tool.
+
+------------------------------------------------------------
+2. CLAUDE (Anthropic) - AI assistant
+------------------------------------------------------------
+Used for:
+- Drafting the 20-card layout and the editable PowerPoint source file.
+- Suggesting this disclosure draft.
+
+Not used for: running The Alkane or producing its screenshots and returned names. Those are my own work.
+
+------------------------------------------------------------
+3. STUDENT RESPONSIBILITY
+------------------------------------------------------------
+- I typed each Part A name before opening The Alkane.
+- I built every Part B structure myself in The Alkane.
+- I compared every returned name with my own and recorded each result honestly, including mismatches.
+- I checked every name, formula and explanation, and I am responsible for their correctness.
